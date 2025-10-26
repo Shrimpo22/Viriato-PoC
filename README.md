@@ -4,4 +4,7 @@ Historically informed, culturally localized action-RPG prototype set around Viri
 This POC validates the core loop (discover → interpret → act), the in-game **Codex** (unlockable short pages tied to discoveries).
 > This repository complements the MSc thesis document by providing the playable POC build and the author-written scripts referenced throughout the thesis.
 > For the reasons explained in the document, any referenced commercial content cannot be made available.
-
+> 
+**Vasco Araújo**  
+MSc Candidate · ⟨Computer Science/ISTA⟩ · ⟨ISCTE-IUL⟩  
+Lisbon, Portugal · 26 Oct 2025  
