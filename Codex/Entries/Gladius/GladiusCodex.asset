@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05cb3074e1d4bd34395d90fab3dfe287, type: 3}
+  m_Name: GladiusCodex
+  m_EditorClassIdentifier: 
+  entryId: gladius
+  displayName: Gladius
+  description: "The Romans made an art of finishing a battle at arm\u2019s length.
+    Their short sword\u2014the gladius\u2014was built for that moment when the line
+    closed: a broad, double-edged blade with a strong point, short enough to work
+    behind the shelter of the tall scutum. In the drill books and in the press of
+    real fights, legionaries learned to thrust first and often, cutting only when
+    a chance opened. In formation the weapon\u2019s economy mattered more than reach;
+    its job was to end arguments quickly.\r\n\r\nRome did not invent it. During the
+    Punic Wars they met Iberian swordsmen and took their pattern\u2014the gladius
+    hispaniensis\u2014then refined it through several styles: the wasp-waisted Mainz
+    and Fulham types with pronounced points, and, later, the straight-sided Pompeii
+    type common in the early empire. Over the centuries the blade hovered around
+    two feet in length; by the third century CE the army favored the longer spatha,
+    but the gladius had already carved Rome\u2019s reputation. \r\n\r\nIn the arena
+    the word \u201Cgladius\u201D named both weapon and spectacle, but its true theater
+    was the line of the legion: pila cast, shields locked, a few brutal steps forward,
+    then steel working in tight spaces. That rhythm\u2014throw, close, thrust\u2014was
+    as much logistics and training as courage, and the gladius was the instrument
+    that made it routine. "
+  modelPrefab: {fileID: 1116351035488744, guid: b796fe1abd1797e449c6b4b3a3dd1149, type: 3}
+  previewOffset: {x: 0, y: 0, z: 0}
+  previewRotationEuler: {x: 0, y: 180, z: 0}
+  unlockedByDefault: 0

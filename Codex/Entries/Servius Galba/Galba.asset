@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05cb3074e1d4bd34395d90fab3dfe287, type: 3}
+  m_Name: Galba
+  m_EditorClassIdentifier: 
+  entryId: servio_galba
+  displayName: Praetor Servius Sulpicius Galba
+  description: "A praetor was a senior Roman magistrate holding imperium\u2014the
+    authority to command armies and administer justice. Praetors often governed provinces
+    and could act as generals when the consuls were absent.\n\nGalba in Hispania
+    (151\u2013150 BCE).\nAs praetor of Hispania Ulterior, Servius Sulpicius Galba
+    inherited a grinding frontier war against the Lusitanians. After setbacks and
+    supply strain, he offered them peace and new lands if they laid down their arms.
+    The Lusitanians accepted; Galba ordered them divided into three \u201Csettlement
+    groups\u201D on an open plain\u2014then ringed each group with legionaries. At
+    his signal the Romans fell upon them. Thousands were killed; many survivors were
+    sold into slavery. Among those who escaped, tradition places a young Viriathus,
+    whose later rebellion would haunt Roman commanders for a decade.\n\nAftermath
+    and legacy.\nBack in Rome (149 BCE), Galba was prosecuted for treachery and mass
+    murder. The elder Cato denounced him fiercely, yet Galba swayed the people by
+    pleading his hardships and parading his children; he was acquitted and later
+    reached the consulship (144 BCE). In Iberia, however, his name became a byword
+    for broken faith. Galba\u2019s stratagem bought a momentary victory\u2014but
+    it ignited the wider Lusitanian War and helped forge Viriathus into Rome\u2019s
+    most formidable Iberian foe."
+  modelPrefab: {fileID: 5328028720905196967, guid: 096c989e70d641a4ab47237e66289fbc, type: 3}
+  previewOffset: {x: 0, y: 0, z: 0}
+  previewRotationEuler: {x: 0, y: 180, z: 0}
+  unlockedByDefault: 1

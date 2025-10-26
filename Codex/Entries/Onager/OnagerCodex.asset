@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05cb3074e1d4bd34395d90fab3dfe287, type: 3}
+  m_Name: OnagerCodex
+  m_EditorClassIdentifier: 
+  entryId: onager
+  displayName: Onager
+  description: "The onager was Rome\u2019s late antique answer to the problem of
+    hurling heavy stones with brutal simplicity\u2014a single-armed torsion engine
+    that kicked so hard on release it earned the name of a wild ass. Where the two-armed
+    ballista sought proportion and precision, the onager embraced shock. A stout
+    frame held one skein of twisted sinew; through it ran a thick throwing arm, hauled
+    down by winch and ratchet until the crew felt the cords bite. At the end of that
+    arm sat a sling or spoon, cradling a dressed stone. When the sear dropped, the
+    arm snapped upward, the sling flicked free, and the stone took its line with
+    the hard, flat sound of air parting around weight.\n\nWriters of the later Empire
+    describe ugly recoil. An unbraced onager could walk back or break its own timbers;
+    crews set them in earth beds or heaped ramped sod against the rear and sides,
+    shimming the frame between shots to keep it square. Wet weather slackened the
+    sinew; the men kept covers on the bundle, oiled the cords, and re-tuned the arm
+    by wedges and keys. Rate of fire was modest\u2014weight over cadence\u2014but
+    the effect on masonry and morale was plain: battlements shattered; hoardings
+    came down; towers lost teeth. Compared to a ballista it was cruder in aim, yet
+    perfectly suited to siege rhythm, where one good hit counted for many small punctures.\n\nIn
+    the field the onager was more a battering presence than a ranging piece. Commanders
+    used it to deny a gate mouth or to disturb a tight block of troops forming under
+    walls; the stone\u2019s steep arc made defenders hunch, and any direct strike
+    among men or carts turned a moment into a mess. Manuals insist on method\u2014fixed
+    bed, consistent pull, careful stone weight, and a clean sling\u2014that turned
+    a capricious beast into something a crew could predict. Ammunition was the simplest
+    logistics: stone cut, dressed, and stacked by the hundred near the platform;
+    spare slings coiled dry; iron fittings checked for creep and crack.\n\nChronology
+    matters. In Republican wars and the early Empire, the two-armed ballista dominated
+    precision work. The onager belongs later\u2014Vegetius\u2019s era\u2014when stone-throwing
+    engines stood as the common grammar of sieges and the army relied on rugged machines
+    that could be built from timbers at hand, set in earth, and repaired by artificers
+    under fire. If a ballista was the surgeon\u2019s tool, the onager was the maul:
+    slower, harder to steer, but decisive when the task was to make walls flinch
+    and men on parapets scatter. When it fired, the frame jumped, dust shook from
+    the sod, and somewhere downrange a square of daylight opened where stone had
+    not let daylight through before."
+  modelPrefab: {fileID: 1666125366136256, guid: 5f7f27ddb28ea67459ae6fe7c15cad4c, type: 3}
+  previewOffset: {x: 0, y: 0, z: 0}
+  previewRotationEuler: {x: 0, y: 180, z: 0}
+  unlockedByDefault: 0

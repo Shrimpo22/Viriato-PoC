@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05cb3074e1d4bd34395d90fab3dfe287, type: 3}
+  m_Name: InteramiciCodex
+  m_EditorClassIdentifier: 
+  entryId: faction_interamici
+  displayName: The Interamici
+  description: "The Interamici\u2014literally \u201Cthose between the waters\u201D\u2014lived
+    on the high ridges and river valleys where Galicia meets Tr\xE1s-os-Montes. Their
+    country lay between great streams and their headwaters: the Minho and Sil to
+    the north, and the Limia and T\xE2mega rising to the south, a maze of torrents
+    that gave the tribe its name and its temper. They spoke and fought like other
+    Gallaecian peoples of the far northwest, sheltering in stone hillforts (castros)
+    and ranging down to the fields and river tracks when season and war allowed.
+    \r\n\r\nRome learned their name in the same breath as their neighbors. From Aquae
+    Flaviae\u2014modern Chaves\u2014the imperial road system pressed into the interior,
+    and on the city\u2019s great bridge a stone pillar (the Padr\xE3o dos Povos)
+    listed the dependent communities. Among them stand the Interamici, counted with
+    Limici, Tamagani, Equaesi, Querquerni and others, proof that their hills and
+    crossings were folded into Rome\u2019s paperwork as well as its marches. \r\n\r\nLittle
+    survives of their own voice beyond place-names and the hard outlines of hillfort
+    walls. But the pattern is clear enough: a people set between rivers, trading
+    salt, ore, and pasture, resisting until resistance cost more than it paid, then
+    negotiating a place within the Roman map. Where their tracks met the Roman road,
+    shrines and milestones followed; where their castros watched the valleys, they
+    watched still, but now under new law. The Interamici endured the way their land
+    endures\u2014by flowing around harder things."
+  modelPrefab: {fileID: 7723396761313680385, guid: 4c904d9f46c23f8478f92c85d3d2b2dc, type: 3}
+  previewOffset: {x: 0, y: 0, z: 0}
+  previewRotationEuler: {x: 0, y: 180, z: 0}
+  unlockedByDefault: 1

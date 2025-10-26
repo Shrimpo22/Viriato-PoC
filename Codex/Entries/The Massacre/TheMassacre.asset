@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05cb3074e1d4bd34395d90fab3dfe287, type: 3}
+  m_Name: TheMassacre
+  m_EditorClassIdentifier: 
+  entryId: the_massacre
+  displayName: Galba's Massacre
+  description: "They came to the Roman camp unarmed, hungry, and hopeful. Servius
+    Sulpicius Galba\u2014Rome\u2019s praetor in Farther Spain\u2014had promised the
+    Lusitanians new land and safe terms if they laid down their weapons and resettled.
+    He divided them into three groups on open ground, had trenches dug around them,
+    and then gave a different order. The legionaries advanced.\r\n\r\nWhat followed
+    was butchery. Men of fighting age were cut down; many of the rest were seized
+    and sold across the sea. The numbers preserved by our sources vary wildly\u2014ancient
+    writers speak in tens of thousands\u2014but all agree on the treachery and scale
+    of the killing. Among those who escaped, tradition places a young warrior named
+    Viriathus, who would soon ignite the most stubborn resistance Rome ever faced
+    in the west. \r\n\r\nGalba\u2019s act did not pacify Lusitania. It enraged it.
+    Raids swelled into open war that burned for years, the \u201CFiery War\u201D
+    of Greek memory. Viriathus learned Rome\u2019s habits and punished Roman columns
+    with ambush and flight, turning the hills and scrub into his allies and giving
+    the Republic a guerrilla war it could neither crush nor ignore. \r\n\r\nBack
+    in Rome, outrage followed the news. In 149 BC the tribune Lucius Scribonius Libo
+    brought Galba to trial; Cato the Elder thundered against him. Galba escaped conviction\u2014ancient
+    accounts credit a masterful speech and generous \u201Cgifts\u201D\u2014but his
+    name was forever linked to the massacre that birthed Viriathus\u2019s rebellion. "
+  modelPrefab: {fileID: 8206508398366601853, guid: 0fdb700c214588349a7ba892625dd4b7, type: 3}
+  previewOffset: {x: 0, y: 0, z: 0}
+  previewRotationEuler: {x: 0, y: 180, z: 0}
+  unlockedByDefault: 0

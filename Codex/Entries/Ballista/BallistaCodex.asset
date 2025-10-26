@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05cb3074e1d4bd34395d90fab3dfe287, type: 3}
+  m_Name: BallistaCodex
+  m_EditorClassIdentifier: 
+  entryId: ballista
+  displayName: Ballista
+  description: "The Romans called their precision engines ballistae and built them
+    not as giant bows but as machines of twisted sinew and measured rule. Two rigid
+    frames held skeins of animal tendon; short arms passed through those cords, storing
+    energy as they were wound back and loosed. A slider ran between the frames, hauled
+    by winch and ratchet until a sear released with a clean snap. From the groove
+    a bolt leapt\u2014iron-headed, often square in section for splitting wood and
+    shield\u2014fletched to hold its line in the air. Heavier frames threw stones,
+    rounded or roughly dressed, to shatter hoardings and parapets. Roman engineers
+    did not leave performance to chance: following the proportional canons described
+    by writers like Vitruvius, they sized arms, skeins, and stroke so crews could
+    reproduce a known effect by measure rather than guess.\n\nA trained ballistarius
+    crew\u2014often rated as immunes, exempt from common fatigue duties\u2014worked
+    by drill: wind, load, set elevation, mark fall of shot, walk the impacts onto
+    target. In sieges the engine became the day\u2019s heartbeat, clearing battlements,
+    shielding sappers, answering hostile artillery, and worrying gates until joinery
+    failed. In the field it shaped ground and time, denying fords and street mouths,
+    breaking dense bodies before contact so legionaries met an unsteady foe. The
+    weapon also imposed a psychology: men who had seen a line raked by bolts learned
+    to keep low or keep moving when its frame turned their way.\n\nOn Iberian soil\u2014where
+    Roman arms contended with Celtiberian towns and hill tribes\u2014artillery like
+    this appears wherever Rome tightened a ring. At Numantia the siege train screened
+    earthworks and punished sorties, narrowing the city\u2019s options day by day.
+    Against fast fighters in broken country, the ballista served less to pursue and
+    more to fix: hold a path in iron, make a ridge too costly to crest, herd skirmishers
+    toward ground the legions preferred. The machine\u2019s limits were practical
+    and well known. Humidity slackened sinew and stole range; crews kept skeins covered,
+    oiled, and constantly re-tuned. Recoil racked frames out of square; wedges crept;
+    a warped arm or mismatched skeins spoiled accuracy and had to be corrected before
+    the next shot. Logistics shadowed every advance: spare arms and cordage, ironwork
+    for triggers, stacks of prepared bolts and stones, and artificers to keep the
+    line firing.\n\nRoman practice produced families of engines rather than a single
+    type. Light scorpiones specialized in anti-personnel work and could be spread
+    down to smaller units; medium ballistae served both bolt and stone; and cart-mounted
+    carroballistae, the kind paraded on Trajan\u2019s Column, followed columns to
+    bring controlled fire wherever the line bent. Later centuries would favor the
+    onager, a single-armed torsion sling quite different in feel and purpose, but
+    in the Republican and early Imperial wars the two-armed ballista remained the
+    disciplined face of Roman precision fire: a rule-bound machine that turned proportion
+    into reach, and reach into advantage."
+  modelPrefab: {fileID: 1626207835084804, guid: f8000cacdaf287e47b2578e11f0c2d5e, type: 3}
+  previewOffset: {x: 0, y: 0, z: 0}
+  previewRotationEuler: {x: 0, y: 180, z: 0}
+  unlockedByDefault: 0

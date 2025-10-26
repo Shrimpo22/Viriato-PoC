@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05cb3074e1d4bd34395d90fab3dfe287, type: 3}
+  m_Name: FalcataCodex
+  m_EditorClassIdentifier: 
+  entryId: medieval_falcata
+  displayName: Falcata
+  description: "They forged it for close work in broken ground: a single-edged blade
+    that swoops forward like a hawk, heavy at the tip, keen along the belly. Iberian
+    smiths made the falcata to bite through shields and bone with a chopping draw-cut
+    yet keep a stabbing point for the finish. Its grip often curled into a hook or
+    enclosed guard, sometimes cast as an animal\u2019s head, locking the hand behind
+    the weight of the blow. In form it echoes the Greek kopis, but Iberian examples
+    are their own breed\u2014many sharpened on both edges toward the tip, tuned for
+    the crush and tangle of hand-to-hand fighting. \r\n\r\nThe sword belongs to the
+    centuries before Rome conquered Hispania\u2014common from the 5th to 1st century
+    BCE\u2014and it traveled in grave goods as much as on campaigns. To carry a falcata
+    was to carry status: silvered mounts, inlaid motifs, and careful heat-treating
+    tell of weapons made to impress the living and arm the dead. Museums describe
+    them as compact, efficient killers\u2014built to cut and stab\u2014and also as
+    emblems of rank among Iberian and Celtiberian elites. \r\n\r\nRoman writers learned
+    to respect the swords of Hispania, and armies that marched through the northwest
+    met hillfort warriors who fought with javelin and blade, then fell back along
+    goat tracks their pursuers feared. In those fights the falcata\u2019s forward
+    balance and short length made sense: strike hard in close, from the shoulder,
+    where a long spear is clumsy and a straight sword is slow. Later, as Rome folded
+    the tribes into its order, the falcata faded from the battlefield, but the steel
+    remained in graves and riverbeds\u2014and in the reputation of a people who knew
+    how to make a short blade do ruinous work."
+  modelPrefab: {fileID: 194598, guid: a466cf1546dca694c9fd6bc13342e548, type: 3}
+  previewOffset: {x: 0, y: 0, z: 0}
+  previewRotationEuler: {x: 0, y: 180, z: 0}
+  unlockedByDefault: 0

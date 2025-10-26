@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05cb3074e1d4bd34395d90fab3dfe287, type: 3}
+  m_Name: RomansCodex
+  m_EditorClassIdentifier: 
+  entryId: faction_romans
+  displayName: The Romans
+  description: "They named their state for the Senate and the People of Rome\u2014SPQR\u2014and
+    imagined politics as a contract between those two poles. From a quarrelsome city
+    on the Tiber they learned to make victory permanent: defeat an enemy, pave a
+    road, post a garrison, write the treaty\u2014and keep going. Their armies moved
+    like workshops, throwing heavy pila to break a line and closing with the short
+    gladius, while engineers measured out forts, bridges, and siegeworks as if they
+    were streets yet to be built. The result was not quiet so much as order: caravans
+    rolling farther, taxes counted more reliably, messages flashing along the road
+    system and into stone and law. \r\n\r\nThey carried water across valleys on aqueducts,
+    tunneled it through hills, and stitched provinces to Rome with milestones and
+    relays; what looked like conquest from the outside felt like paperwork from within.
+    To be Roman, first, was to be under Roman law\u2014and increasingly, to be a
+    Roman citizen. Over generations the franchise widened, until Caracalla\u2019s
+    edict of AD 212 swept almost every free person inside the circle. \r\n\r\nAt
+    the top stood emperors who claimed to restore the republic while quietly replacing
+    it, and for two long centuries\u2014the Pax Romana, from 27 BCE to 180 CE\u2014the
+    Mediterranean mostly bent to the rhythm of Roman timetables. The symbol was the
+    eagle standard on campaign; the feeling was arriving at a town you had never
+    seen and knowing where the forum would be. Their dream was simple: a world arranged
+    in straight lines and right angles, where the Senate and People of Rome wrote
+    the headings and everyone else learned to fill in the forms. "
+  modelPrefab: {fileID: 6181554712259321806, guid: b9ed28ef3b9c10d41bb8357be000e32c, type: 3}
+  previewOffset: {x: 0, y: 0, z: 0}
+  previewRotationEuler: {x: 0, y: 180, z: 0}
+  unlockedByDefault: 0
